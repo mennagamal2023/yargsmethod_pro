@@ -1,0 +1,49 @@
+[
+    {
+        "id": 1,
+        "fname": "ali",
+        "lname": "mohamed",
+        "age": 25,
+        "city": "alex"
+    },
+    {
+        "id": 3,
+        "fname": "esraa",
+        "lname": "emad",
+        "age": 35,
+        "city": "alsharkia"
+    },
+    {
+        "id": 5,
+        "fname": "mena",
+        "lname": "gamal"
+    },
+    {
+        "id": 6,
+        "fname": "Ahmed",
+        "lname": "gamal",
+        "age": 29,
+        "city": "alex"
+    },
+    {
+        "id": 7,
+        "fname": "wael",
+        "lname": "emad",
+        "age": 29,
+        "city": "cairo"
+    },
+    {
+        "id": 8,
+        "fname": "sara",
+        "lname": "omar",
+        "age": 37,
+        "city": "cairo"
+    },
+    {
+        "id": 10,
+        "fname": "yara",
+        "lname": "hamdy",
+        "age": 40,
+        "city": "alex"
+    }
+]
